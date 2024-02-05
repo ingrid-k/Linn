@@ -2,14 +2,15 @@
 
 clear
 
-#los valores son pasados por parametros
+#Los valores son pasados por parametros
 
 #numA=$1
 #numB=$2
 
 numA=0
 numB=0
-#defino las varriables y las inicializo
+
+#Defino las variables y las inicializo
 
 read -p "Ingrese el operando A: " numA
 read -p "Ingrese el operando B: " numB
@@ -32,6 +33,7 @@ echo "A>=B $((numA >= numB))"
 echo "A<=B $((numA <= numB))"
 echo "A==B $((numA == numB))"
 echo "A!=B $((numA != numB))"
+
 
 
 
