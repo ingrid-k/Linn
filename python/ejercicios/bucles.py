@@ -17,3 +17,8 @@ while adivinanzas != 6 and intentos < 5:
   adivinanzas = int(input('Adivina el numero:  '))
 
 print("Lo adivinaste!")
+
+#For
+
+for i in range(41):
+  print(i)
