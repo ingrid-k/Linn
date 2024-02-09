@@ -31,7 +31,7 @@ for i in range(99, 0, -1):
   print("toma una y pasala")
   print(f"{i-1} botellas de cerveza en la pared")
 
-#Crear un programa llamado "Fizz Buzz".
+#Crear un programa que represente el juego llamado "Fizz Buzz".
 #Multiplos de 3, imprime Fizz.
 #Multiplos de 5, imprime Buzz.
 #Multiplos de 3 y 5, imprime Fizz Buzz.
