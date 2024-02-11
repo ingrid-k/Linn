@@ -22,3 +22,10 @@
 ### ¿Quién soy?
 <p>A finales del año 2019 quise darle un giro a mi carrera, fue entonces cuando comencé a estudiar programación en abril de 2020. Siempre tuve curiosidad por el mundo de la tecnología.<br>
 En 2024 me encuentro persiguiendo un nuevo desafío, dedicando mi tiempo a aprender todo sobre un área que desde el comienzo fue mi objetivo final: Ciberseguridad.<br></p>
+
+### Contacto
+[GitHub](https://github.com/ingrid-k)<br>
+[GitBook](https://linn-s-book.gitbook.io/ingrid-k/)<br>
+[LinkedIn](https://www.linkedin.com/in/ingrid-k/)<br>
+[Hack The Box](https://app.hackthebox.com/profile/1524449)<br>
+[ingridkaufmannok@gmail.com](mailto:ingridkaufmannok@gmail.com)
