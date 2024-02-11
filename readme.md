@@ -28,4 +28,4 @@ En 2024 me encuentro persiguiendo un nuevo desafío, dedicando mi tiempo a apren
 [GitBook](https://linn-s-book.gitbook.io/ingrid-k/)<br>
 [LinkedIn](https://www.linkedin.com/in/ingrid-k/)<br>
 [Hack The Box](https://app.hackthebox.com/profile/1524449)<br>
-[ingridkaufmannok@gmail.com](mailto:ingridkaufmannok@gmail.com)
+ingridkaufmannok@gmail.com
