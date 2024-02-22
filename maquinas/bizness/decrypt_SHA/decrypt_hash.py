@@ -23,12 +23,14 @@ def getCryptedBytes(hash_type, salt, value):
         raise Exception(f"Error while computing hash of type {hash_type}: {e}")
 hash_type = "SHA1"
 salt = "d"
-#search = "$SHA1$d$uP0_QaVBpDWFeo8-dRzDqRwXQ2I=" aca va el hash 
-#wordlist = '/Downloads/rockyou.txt' esta es la ruta donde deberia estar el archivo rockyou.txt
+#insertar el hash SHA256
+search = "$SHA1$d$uP0_QaVBpDWFeo8-dRzDqRwXQ2I="  
+#ruta del archivo rockyou.txt
+wordlist = '/Downloads/rockyou.txt' 
 with open(wordlist,'r',encoding='latin-1') as password_list:
     for password in password_list:
         value = password.strip()
         hashed_password = cryptBytes(hash_type, salt, value.encode('utf-8'))
-        # imprime en pantalla 
+        # imprimir la contraseña en pantalla
         if hashed_password == search:
             print(f'Found Password:{value}, hash:{hashed_password}')
